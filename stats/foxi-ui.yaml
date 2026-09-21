@@ -1,5 +1,5 @@
 username: foxi-ui
-updatedAt: 2026-09-21T08:01:02.741Z
+updatedAt: 2026-09-21T08:50:41.664Z
 skills:
   find-skills:
     count: 2
@@ -8,38 +8,44 @@ skills:
     count: 3
     lastUsed: 2026-09-21T07:20:02.920Z
   superpowers:brainstorming:
-    count: 3
-    lastUsed: 2026-09-21T06:34:43.622Z
+    count: 4
+    lastUsed: 2026-09-21T08:03:21.950Z
   init:
+    count: 2
+    lastUsed: 2026-09-21T08:03:41.929Z
+  superpowers:
     count: 1
-    lastUsed: 2026-09-21T02:42:25.841Z
+    lastUsed: 2026-09-21T08:08:00.272Z
+  superpowers:writing-plans:
+    count: 1
+    lastUsed: 2026-09-21T08:45:31.500Z
 interventions:
-  sessions: 15
-  interrupt: 10
-  toolReject: 5
+  sessions: 16
+  interrupt: 12
+  toolReject: 7
   correction: 0
-prompts: 78
+prompts: 92
 tokens:
-  input: 1162616
-  output: 748648
-  cacheRead: 67800448
+  input: 1366328
+  output: 868728
+  cacheRead: 78799488
   cacheCreation: 0
 daily:
   2026-09-20:
     sessionsEnded: 4
     sessionsSucceeded: 2
-    promptTurns: 65
-    durationMs: 8694088
+    promptTurns: 66
+    durationMs: 8783317
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
   2026-09-21:
-    sessionsEnded: 5
+    sessionsEnded: 6
     sessionsSucceeded: 4
-    promptTurns: 13
-    durationMs: 1784984
+    promptTurns: 26
+    durationMs: 3635623
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
