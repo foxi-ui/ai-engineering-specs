@@ -1,5 +1,5 @@
 username: foxi-ui
-updatedAt: 2026-09-20T14:08:59.318Z
+updatedAt: 2026-09-21T00:21:02.999Z
 skills:
   find-skills:
     count: 1
@@ -11,22 +11,22 @@ skills:
     count: 1
     lastUsed: 2026-09-20T13:47:35.155Z
 interventions:
-  sessions: 7
-  interrupt: 2
-  toolReject: 2
+  sessions: 8
+  interrupt: 7
+  toolReject: 4
   correction: 0
-prompts: 43
+prompts: 47
 tokens:
-  input: 211024
-  output: 106994
-  cacheRead: 8829824
+  input: 459455
+  output: 345221
+  cacheRead: 29320448
   cacheCreation: 0
 daily:
   2026-09-20:
     sessionsEnded: 4
-    sessionsSucceeded: 3
-    promptTurns: 43
-    durationMs: 3863841
+    sessionsSucceeded: 2
+    promptTurns: 47
+    durationMs: 4220882
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
