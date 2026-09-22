@@ -1,5 +1,5 @@
 username: foxi-ui
-updatedAt: 2026-09-22T05:00:00.861Z
+updatedAt: 2026-09-22T05:21:06.199Z
 skills:
   find-skills:
     count: 2
@@ -19,12 +19,15 @@ skills:
   superpowers:writing-plans:
     count: 1
     lastUsed: 2026-09-21T08:45:31.500Z
+  superpowers:executing-plans:
+    count: 1
+    lastUsed: 2026-09-22T05:01:19.608Z
 interventions:
   sessions: 23
   interrupt: 19
   toolReject: 8
   correction: 0
-prompts: 181
+prompts: 185
 tokens:
   input: 2490896
   output: 1644489
