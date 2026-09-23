@@ -10,4 +10,4 @@ sharing:
   env:
     injectShellProfile: true
 reviewers:
-  - n
+  - foxi-ui
