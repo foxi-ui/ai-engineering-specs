@@ -1,5 +1,5 @@
 username: foxi-ui
-updatedAt: 2026-09-23T08:31:21.761Z
+updatedAt: 2026-09-23T09:07:48.074Z
 skills:
   teamai:
     count: 2
@@ -7,25 +7,31 @@ skills:
   executing-plans:
     count: 2
     lastUsed: 2026-09-23T05:16:59.716Z
+  superpowers:
+    count: 1
+    lastUsed: 2026-09-23T08:36:10.089Z
+  superpowers:writing-plans:
+    count: 1
+    lastUsed: 2026-09-23T08:58:33.429Z
 interventions:
-  sessions: 8
+  sessions: 9
   interrupt: 2
   toolReject: 2
   correction: 3
-prompts: 52
+prompts: 59
 tokens:
-  input: 519935
-  output: 517061
-  cacheRead: 101107712
+  input: 627643
+  output: 585668
+  cacheRead: 103048576
   cacheCreation: 0
 daily:
   2026-09-23:
-    sessionsEnded: 4
-    sessionsSucceeded: 3
-    promptTurns: 52
-    durationMs: 8924858
+    sessionsEnded: 5
+    sessionsSucceeded: 4
+    promptTurns: 59
+    durationMs: 11106868
     sessionsCorrected: 1
     pricedRequests: 0
     costMicros: 0
-    cacheReadTokens: 101107712
-    cacheEligibleInputTokens: 101627647
+    cacheReadTokens: 103048576
+    cacheEligibleInputTokens: 103676219
