@@ -120,11 +120,6 @@ skills/task/
 
 例如：
 
-feature-development
-bug-fix
-refactor
-code-review
-troubleshooting
 documentation-design
 
 
@@ -208,23 +203,14 @@ Stack 只描述主要技术环境。
 
 不要创建：
 
-react-bug-fix
-vue-bug-fix
-java-bug-fix
-react-refactor
-vue-refactor
+react-documentation-design
+vue-documentation-design
 
 而使用：
 
-task/bug-fix
+task/documentation-design
 +
 stack/react
-
-或者：
-
-task/refactor
-+
-stack/java
 
 这样可以避免组合爆炸。
 
@@ -430,7 +416,7 @@ find knowledge -type f | sort
 
 搜索关键词：
 
-grep -Rni "bug-fix" .
+grep -Rni "documentation-design" .
 grep -Rni "dependency" .
 grep -Rni "react" .
 

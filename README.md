@@ -50,11 +50,6 @@ rules/
 
 skills/
 ├── task/
-│   ├── feature-development/
-│   ├── bug-fix/
-│   ├── refactor/
-│   ├── code-review/
-│   ├── troubleshooting/
 │   └── documentation-design/
 │
 └── stack/
@@ -94,34 +89,28 @@ Stack = 在什么技术环境下做
 
 例如：
 
-React 修复 Bug
+React 项目建立开发文档体系
 
-task/bug-fix
+task/documentation-design
 +
 stack/react
 
 
-Java 新增功能
+Vue 项目建立开发文档体系
 
-task/feature-development
-+
-stack/java
-
-
-Vue 项目重构
-
-task/refactor
+task/documentation-design
 +
 stack/vue
 
 
 不要为组合创建：
 
-react-bug-fix
-vue-bug-fix
-java-bug-fix
+react-documentation-design
+vue-documentation-design
 
 避免 Skill 数量随着技术栈和任务类型产生组合爆炸。
+
+Task Skill 描述工作方法，Stack Skill 描述技术环境，按需组合。
 
 
 ## 3. Project
@@ -197,13 +186,11 @@ Required Rules
 
 项目：React Admin
 
-任务：修复构建问题
+任务：建立开发文档体系
 
 Project
 +
-task/bug-fix
-+
-task/troubleshooting
+task/documentation-design
 +
 stack/react
 +
