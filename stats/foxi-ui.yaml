@@ -1,5 +1,5 @@
 username: foxi-ui
-updatedAt: 2026-09-24T01:50:40.797Z
+updatedAt: 2026-09-24T07:12:33.984Z
 skills:
   teamai:
     count: 2
@@ -14,11 +14,11 @@ skills:
     count: 1
     lastUsed: 2026-09-23T08:58:33.429Z
   documentation-design:
-    count: 4
-    lastUsed: 2026-09-24T00:44:50.639Z
+    count: 5
+    lastUsed: 2026-09-24T07:01:23.091Z
   superpowers:finishing-a-development-branch:
-    count: 3
-    lastUsed: 2026-09-23T12:36:44.035Z
+    count: 4
+    lastUsed: 2026-09-24T05:11:06.855Z
   artifact-design:
     count: 5
     lastUsed: 2026-09-23T14:47:30.372Z
@@ -29,18 +29,30 @@ skills:
     count: 2
     lastUsed: 2026-09-23T14:07:35.820Z
   writing-plans:
+    count: 4
+    lastUsed: 2026-09-24T02:23:16.650Z
+  archify:
     count: 2
-    lastUsed: 2026-09-24T01:47:12.730Z
+    lastUsed: 2026-09-24T07:12:29.482Z
+  superpowers:brainstorming:
+    count: 1
+    lastUsed: 2026-09-24T01:52:31.744Z
+  superpowers:systematic-debugging:
+    count: 1
+    lastUsed: 2026-09-24T02:32:14.730Z
+  superpowers:subagent-driven-development:
+    count: 1
+    lastUsed: 2026-09-24T04:07:21.051Z
 interventions:
-  sessions: 19
+  sessions: 20
   interrupt: 4
   toolReject: 5
-  correction: 3
-prompts: 131
+  correction: 7
+prompts: 163
 tokens:
-  input: 3857302
-  output: 1473552
-  cacheRead: 272824960
+  input: 4039337
+  output: 1864697
+  cacheRead: 434717056
   cacheCreation: 0
 daily:
   2026-09-23:
@@ -56,10 +68,10 @@ daily:
   2026-09-24:
     sessionsEnded: 1
     sessionsSucceeded: 0
-    promptTurns: 15
-    durationMs: 2556718
-    sessionsCorrected: 0
+    promptTurns: 46
+    durationMs: 8085380
+    sessionsCorrected: 1
     pricedRequests: 0
     costMicros: 0
-    cacheReadTokens: 32321152
-    cacheEligibleInputTokens: 32478830
+    cacheReadTokens: 194213248
+    cacheEligibleInputTokens: 194552961
